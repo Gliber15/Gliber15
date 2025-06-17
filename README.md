@@ -12,7 +12,7 @@
 - 👯 **Buscando colaborar en**: Proyectos open-source de desarrollo móvil o web.
 - 🤔 **Necesito ayuda con**: Optimización de consultas SQL/NoSQL y escalabilidad.
 - 💬 **Pregúntame sobre**: Flutter, Firebase, Android o desarrollo Full Stack.
-- 📫 **Contáctame**: [glibersalazar@gmail.com](mailto:glibersalazar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gliber-salazar-3a1a2b1b4/) | [X](https://twitter.com/GliberSalazar)
+- 📫 **Contáctame**: [glibersalazar578@gmail.com](mailto:glibersalazar578@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gliber-salazar-3a1a2b1b4/) | [X](https://twitter.com/GliberSalazar)
 - ⚡ **Dato curioso**: ¡Puedo crear apps para iOS y Android con un solo código usando Flutter!
 
 ---
@@ -38,10 +38,6 @@
 
 ---
 
-### 🚀 Proyectos destacados
-- **[Lista de Tareas (Flutter)]**: App móvil para gestionar tareas con autenticación y almacenamiento en Firebase. ([Repositorio](https://github.com/Gliber15/Lista-de-Tareas))
-- **[CRUD MySQL]**: Sistema de gestión de datos con operaciones CRUD usando MySQL y Node.js. ([Repositorio](https://github.com/Gliber15/CRUD-MySQL))
-- **[Portafolio Flutter]**: Portafolio personal responsivo desarrollado con Flutter para web y móvil. ([Repositorio](https://github.com/Gliber15/Portafolio-Flutter))
 
 ---
 
